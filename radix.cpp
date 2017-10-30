@@ -41,8 +41,7 @@ void countSort(int arr[], int n, int exp)
         arr[i] = output[i];
 }
 
-// The main function to that sorts arr[] of size n using
-// Radix Sort
+// The main function to that sorts arr[] of size n using radix sort
 void radixsort(int arr[], int n)
 {
     // Find the maximum number to know number of digits
