@@ -1,3 +1,3 @@
 # Trees
 
-Collection of different trees used as data structures.
+The Collection of different trees used as data structures.
