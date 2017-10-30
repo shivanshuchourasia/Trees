@@ -4,7 +4,7 @@
 #include <vector>
 using namespace std;
 
-// Function to sort arr[] of size n using bucket sort
+// Function to sort arr[] of size n using bucket sorting
 void bucketSort(float arr[], int n)
 {
     // 1) Create n empty buckets
