@@ -28,7 +28,7 @@ void bucketSort(float arr[], int n)
           arr[index++] = b[i][j];
 }
 
-/* Driver program to test above funtion */
+
 int main()
 {
     float arr[] = {0.897, 0.565, 0.656, 0.1234, 0.665, 0.3434};
