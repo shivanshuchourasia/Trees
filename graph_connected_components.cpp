@@ -1,7 +1,9 @@
 #include<bits/stdc++.h>
+#include<string>
 using namespace std;
 vector <int> adj[10];
 bool visited[10];
+//This is a function
 void dfs(int i)
 {
     visited[i]=true;
@@ -31,6 +33,6 @@ int main()
                 conncomp++;
             }
         }
-        cout<<"connected components"<<conncomp;
+        cout<<"connected components are :"<<conncomp<<endl;
         return 0;
 }
