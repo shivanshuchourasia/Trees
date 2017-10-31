@@ -62,7 +62,7 @@ void print(int arr[], int n)
         cout << arr[i] << " ";
 }
 
-// Driver program to test above functions
+// Driver program to test the above functions
 int main()
 {
     int arr[] = {170, 45, 75, 90, 802, 24, 2, 66};
