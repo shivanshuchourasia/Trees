@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+#include<string>
 using namespace std;
 vector <int> adj[10];
 bool visited[10];
@@ -32,6 +33,6 @@ int main()
                 conncomp++;
             }
         }
-        cout<<"connected components"<<conncomp;
+        cout<<"connected components are :"<<conncomp<<endl;
         return 0;
 }
