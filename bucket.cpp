@@ -1,6 +1,7 @@
 // C++ program to sort an array using bucket sort
 #include <iostream>
 #include <algorithm>
+#include <stdio.h>
 #include <vector>
 using namespace std;
 
